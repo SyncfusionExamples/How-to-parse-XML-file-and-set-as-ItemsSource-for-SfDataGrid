@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfOrderInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OrderInfo>
+    <OrderID>1000</OrderID>
+    <EmployeeID>500</EmployeeID>
+    <CustomerID>Arjun</CustomerID>
+    <ShipCountry>Argentina</ShipCountry>   
+  </OrderInfo>
+  <OrderInfo>
+    <OrderID>1001</OrderID>
+    <EmployeeID>415</EmployeeID>
+    <CustomerID>Nakul</CustomerID>
+    <ShipCountry>Denmark</ShipCountry>   
+  </OrderInfo>
+  <OrderInfo>
+    <OrderID>1002</OrderID>
+    <EmployeeID>523</EmployeeID>
+    <CustomerID>Maruthi</CustomerID>
+    <ShipCountry>Brazil</ShipCountry>
+  </OrderInfo>
+  <OrderInfo>
+    <OrderID>1003</OrderID>
+    <EmployeeID>459</EmployeeID>
+    <CustomerID>Kesav</CustomerID>
+    <ShipCountry>UK</ShipCountry>   
+  </OrderInfo>
+  <OrderInfo>
+    <OrderID>1004</OrderID>
+    <EmployeeID>505</EmployeeID>
+    <CustomerID>Balram</CustomerID>
+    <ShipCountry>Argentina</ShipCountry>    
+  </OrderInfo>
+</ArrayOfOrderInfo>
